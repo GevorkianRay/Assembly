@@ -64,10 +64,6 @@ main:
 #------------------------------------------------------------------------------
 lcm_recursive:
 	
-	# Attributions to the CS club where I worked on this problem with a small group including Michael Huang and Khoi Dinh / others.
-	# Also attributions to Professor Patra's office hours where he helped me fix my code, and I then tutored Khoi on the zero condition.
-	# Please note: The zero condition is purely extra but we were both curious while working together so we included it.
-	
 	# ----------------------------------------------
 	# Store frame first by setting the stack pointer.
 	# ----------------------------------------------
