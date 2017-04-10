@@ -56,7 +56,6 @@ printf_loop:
 	syscall
 	j 	printf_last			# Move to the next character.
 	
-# Attributions to CS club for help with this loop.
 printf_escape_format:
 	addi	$s1, $s1, 1 			# Increase argument index
 	mul	$t0, $s1, 4			# Multiplying by four to reach the next byte.
